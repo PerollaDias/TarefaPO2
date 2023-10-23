@@ -8,3 +8,14 @@ C:\Users\Usuário\source\repos\TarefaPO2\TarefaPO2\obj\Debug\TarefaPO2.csproj.Ge
 C:\Users\Usuário\source\repos\TarefaPO2\TarefaPO2\obj\Debug\TarefaPO2.csproj.CoreCompileInputs.cache
 C:\Users\Usuário\source\repos\TarefaPO2\TarefaPO2\obj\Debug\TarefaPO2.exe
 C:\Users\Usuário\source\repos\TarefaPO2\TarefaPO2\obj\Debug\TarefaPO2.pdb
+C:\Users\2022102020078\Downloads\TarefaPO2\TarefaPO2\TarefaPO2\bin\Debug\TarefaPO2.exe.config
+C:\Users\2022102020078\Downloads\TarefaPO2\TarefaPO2\TarefaPO2\bin\Debug\TarefaPO2.exe
+C:\Users\2022102020078\Downloads\TarefaPO2\TarefaPO2\TarefaPO2\bin\Debug\TarefaPO2.pdb
+C:\Users\2022102020078\Downloads\TarefaPO2\TarefaPO2\TarefaPO2\obj\Debug\TarefaPO2.csproj.AssemblyReference.cache
+C:\Users\2022102020078\Downloads\TarefaPO2\TarefaPO2\TarefaPO2\obj\Debug\TarefaPO2.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020078\Downloads\TarefaPO2\TarefaPO2\TarefaPO2\obj\Debug\TarefaPO2.Form1.resources
+C:\Users\2022102020078\Downloads\TarefaPO2\TarefaPO2\TarefaPO2\obj\Debug\TarefaPO2.Properties.Resources.resources
+C:\Users\2022102020078\Downloads\TarefaPO2\TarefaPO2\TarefaPO2\obj\Debug\TarefaPO2.csproj.GenerateResource.cache
+C:\Users\2022102020078\Downloads\TarefaPO2\TarefaPO2\TarefaPO2\obj\Debug\TarefaPO2.csproj.CoreCompileInputs.cache
+C:\Users\2022102020078\Downloads\TarefaPO2\TarefaPO2\TarefaPO2\obj\Debug\TarefaPO2.exe
+C:\Users\2022102020078\Downloads\TarefaPO2\TarefaPO2\TarefaPO2\obj\Debug\TarefaPO2.pdb
